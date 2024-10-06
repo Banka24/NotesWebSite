@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learn\\PetProject\\NotesWebSite\\backend\\MyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B409FD-FEC4-4802-BBD3-711826925169}|MyNotes\\MyNotes.csproj|d:\\learn\\petproject\\noteswebsite\\backend\\mynotes\\mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B409FD-FEC4-4802-BBD3-711826925169}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B409FD-FEC4-4802-BBD3-711826925169}|MyNotes\\MyNotes.csproj|d:\\learn\\petproject\\noteswebsite\\backend\\mynotes\\mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B409FD-FEC4-4802-BBD3-711826925169}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\learn\\PetProject\\NotesWebSite\\backend\\MyNotes\\MyNotes\\Program.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Program.cs",
+              "ToolTip": "D:\\learn\\PetProject\\NotesWebSite\\backend\\MyNotes\\MyNotes\\Program.cs",
+              "RelativeToolTip": "MyNotes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:30:25.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\learn\\PetProject\\NotesWebSite\\backend\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\learn\\PetProject\\NotesWebSite\\backend\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "MyNotes\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:59:25.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

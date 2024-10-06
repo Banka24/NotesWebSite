@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "MyNotes.Controllers.NotesController",
+    "Method": "CreateNote",
+    "RelativePath": "Notes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reaquest",
+        "Type": "MyNotes.Contracts.CreateNoteReaquest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyNotes.Controllers.NotesController",
+    "Method": "Get",
+    "RelativePath": "Notes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Search",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SortItem",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SortOrder",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
